@@ -45,7 +45,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.markdown('<div class="title">🍽️ Gemini Health App</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🍽️ ByteCal</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Estimate your food calories just by uploading an image</div>', unsafe_allow_html=True)
 
 # Input
